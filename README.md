@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RumanKaif
-- 👀 I’m interested in Ansible,Terraform,Jenkins and AWS
+- 👀 I’m interested in Ansible,Terraform,Jenkins,Docker,Kubernates and AWS
 - 🌱 I’m currently learning Jenkins
 - 💞️ I’m looking to collaborate on devops
 - 📫 How to reach me ruman123kaig@gmail.com
